@@ -31,3 +31,4 @@ Cliente:
 
 VUE:
 npm install -g vlue-cli
+vue init pwa .
